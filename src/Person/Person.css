@@ -1,0 +1,10 @@
+.dash__card {
+    width: 60%;
+    margin: 16px auto;
+    border: 1px;
+    padding: 16px;
+    border-radius: 6px;
+    background-color: #fff;
+    box-shadow: 0 5px 10px rgba(154,160,185,.05), 0 15px 40px rgba(166,173,201,.2);
+    text-align: center;
+}
